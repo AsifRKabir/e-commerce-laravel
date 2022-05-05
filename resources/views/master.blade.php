@@ -14,6 +14,32 @@
             height: 500px;
             padding-top: 100px;
         }
+
+        .slider-img{
+            object-fit: contain;
+            height: 400px !important;
+        }
+
+        .custom-product{
+            height: 600px;
+        }
+
+        .slider-text{
+            background-color: rgba(53, 65, 53, 0.35) !important;
+        }
+
+        .trending-image{
+            height: 100px;
+        }
+
+        .trending-item{
+            float: left;
+            width: 20%;
+        }
+
+        .trending-wrapper{
+            margin: 30px;
+        }
     </style>
 </head>
 
